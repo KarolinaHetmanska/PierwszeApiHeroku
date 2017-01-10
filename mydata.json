@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "person": 2
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "person": {
+      "1": "{\"firstName\":\"Ewa\",\"secondName\":\"Mała\",\"age\":15,\"id\":1}",
+      "2": "{\"firstName\":\"Brajan\",\"secondName\":\"Nowoczesny\",\"age\":20,\"id\":2}"
+    }
+  }
+}
